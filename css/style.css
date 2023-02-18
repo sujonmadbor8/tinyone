@@ -15,6 +15,13 @@ body {
     font-weight: 400;
     color: #898989;
 }
+.yellow {
+    color: #fcdb00 !important;
+}
+.p_tb {
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
 /* common css  */
 
 /* header start  */
@@ -125,3 +132,9 @@ header {
     letter-spacing: 1px;
 }
 /* feature end  */
+
+/* contact start  */
+.contact {
+    background-color: #010101;
+}
+/* contact end  */
