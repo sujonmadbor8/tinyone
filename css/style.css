@@ -104,4 +104,24 @@ header {
     line-height: 27px;
     font-size: 20px;
 }
+.f_item {
+    margin-top: 70px;
+}
+.f_icon {
+}
+.f_icon i {
+    font-size: 50px;
+    color: #010101;
+}
+.f_text {
+}
+.f_text h2 {
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.f_text p {
+    letter-spacing: 1px;
+}
 /* feature end  */
