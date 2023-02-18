@@ -73,10 +73,10 @@ header {
     font-size: 42px;
     color: #010101;
     cursor: pointer;
-    transition: all 0.3s;
+    transition: 0.3s;
 }
 .s_icon ul li i:hover {
-    transform: scale(0.8);
+    transform: scale(0.7);
 }
 
 .s_img {
