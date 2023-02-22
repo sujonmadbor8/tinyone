@@ -143,4 +143,62 @@ header {
 .contact {
     background-color: #010101;
 }
+.c_form {
+    margin: 40px 0 70px;
+}
+.c_input {
+    padding: 15px 20px;
+    height: 55px;
+    font-family: PTSans-Regular;
+    color: #898989;
+}
+.c_submit {
+    background-color: #fcdb00;
+    font-family: PTsans-Bold;
+    font-weight: 700;
+    width: 100%;
+    height: 55px;
+    color: #010101;
+    text-transform: uppercase;
+}
+
+.c_icon {
+}
+.c_icon ul li {
+    margin-right: 30px !important;
+}
+.c_icon ul li:last-child {
+    margin-right: 0 !important;
+}
+.c_icon ul li a i {
+    font-size: 40px;
+    color: #fcdb00;
+    transition: all 0.3s;
+}
+.c_icon ul li a i:last-child {
+}
+.c_icon ul li a i:hover {
+    color: #ffffff;
+}
 /* contact end  */
+
+/* footer start  */
+footer {
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+.f_1 {
+}
+.f_1 p {
+    color: #ffffff;
+}
+.f_2 {
+}
+.f_2 ul li {
+    list-style: none;
+}
+.f_2 ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+/* footer end  */
