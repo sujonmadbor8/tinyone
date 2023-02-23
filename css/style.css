@@ -10,6 +10,7 @@
 /* font  end
 /* common css  */
 body {
+    padding-top: 109px;
     font-family: PTSans-Regular;
     font-size: 16px;
     font-weight: 400;
